@@ -1,0 +1,10 @@
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Udemy Boz\Linq_Project\Linq_Project\bin\Debug\Linq_Project.exe.config
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Udemy Boz\Linq_Project\Linq_Project\bin\Debug\Linq_Project.exe
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Udemy Boz\Linq_Project\Linq_Project\bin\Debug\Linq_Project.pdb
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Udemy Boz\Linq_Project\Linq_Project\obj\Debug\Linq_Project.csproj.AssemblyReference.cache
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Udemy Boz\Linq_Project\Linq_Project\obj\Debug\Linq_Project.Form1.resources
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Udemy Boz\Linq_Project\Linq_Project\obj\Debug\Linq_Project.Properties.Resources.resources
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Udemy Boz\Linq_Project\Linq_Project\obj\Debug\Linq_Project.csproj.GenerateResource.cache
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Udemy Boz\Linq_Project\Linq_Project\obj\Debug\Linq_Project.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Udemy Boz\Linq_Project\Linq_Project\obj\Debug\Linq_Project.exe
+C:\Users\Eren\Desktop\Alieren\3.Language\2.C#\Udemy Boz\Linq_Project\Linq_Project\obj\Debug\Linq_Project.pdb
